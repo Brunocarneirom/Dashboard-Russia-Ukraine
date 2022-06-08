@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
+import plotly as pt
 import plotly.express as px
 from plotly.subplots import make_subplots
-import plotly.figure_factory as ff
 import re
 import base64
 
