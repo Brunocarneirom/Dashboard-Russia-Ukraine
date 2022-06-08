@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly as pt
 import plotly.express as px
-from plotly.subplots import make_subplots
+#from plotly.subplots import make_subplots
 import re
 
 personnel_url = "https://raw.githubusercontent.com/Brunocarneirom/Dashboard-Russia-Ukraine/main/russia_losses_personnel.csv"
